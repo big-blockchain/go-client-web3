@@ -22,9 +22,9 @@
 package ssh
 
 import (
-	"github.com/regcostajr/go-web3/complex/types"
-	"github.com/regcostajr/go-web3/dto"
-	"github.com/regcostajr/go-web3/providers"
+	"github.com/big-blockchain/go-client-web3/complex/types"
+	"github.com/big-blockchain/go-client-web3/dto"
+	"github.com/big-blockchain/go-client-web3/providers"
 )
 
 // SSH - The Net Module

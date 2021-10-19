@@ -25,11 +25,11 @@ import (
 	"encoding/json"
 	"errors"
 	"fmt"
-	"github.com/regcostajr/go-web3/complex/types"
-	"github.com/regcostajr/go-web3/dto"
+	"github.com/big-blockchain/go-client-web3/complex/types"
+	"github.com/big-blockchain/go-client-web3/dto"
 	"strings"
 
-	"github.com/regcostajr/go-web3/utils"
+	"github.com/big-blockchain/go-client-web3/utils"
 )
 
 // Contract ...

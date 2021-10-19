@@ -22,7 +22,7 @@
 package dto
 
 import (
-	"github.com/regcostajr/go-web3/complex/types"
+	"github.com/big-blockchain/go-client-web3/complex/types"
 	"math/big"
 )
 

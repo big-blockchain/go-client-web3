@@ -21,7 +21,7 @@
 
 package block
 
-import "github.com/regcostajr/go-web3/complex/types"
+import "github.com/big-blockchain/go-client-web3/complex/types"
 
 // NUMBER - An integer block number
 // Reference: https://github.com/ethereum/wiki/wiki/JSON-RPC#the-default-block-parameter

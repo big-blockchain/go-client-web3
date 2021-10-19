@@ -29,7 +29,7 @@ import (
 
 	"log"
 
-	"github.com/regcostajr/go-web3/providers/util"
+	"github.com/big-blockchain/go-client-web3/providers/util"
 )
 
 type IPCProvider struct {

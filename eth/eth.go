@@ -22,10 +22,10 @@
 package eth
 
 import (
-	"github.com/regcostajr/go-web3/complex/types"
-	"github.com/regcostajr/go-web3/dto"
-	"github.com/regcostajr/go-web3/eth/block"
-	"github.com/regcostajr/go-web3/providers"
+	"github.com/big-blockchain/go-client-web3/complex/types"
+	"github.com/big-blockchain/go-client-web3/dto"
+	"github.com/big-blockchain/go-client-web3/eth/block"
+	"github.com/big-blockchain/go-client-web3/providers"
 )
 
 // Eth - The Eth Module

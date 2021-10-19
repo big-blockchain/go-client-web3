@@ -21,7 +21,7 @@
 
 package dto
 
-import "github.com/regcostajr/go-web3/complex/types"
+import "github.com/big-blockchain/go-client-web3/complex/types"
 
 type SyncingResponse struct {
 	StartingBlock types.ComplexIntResponse `json:"startingBlock"`
